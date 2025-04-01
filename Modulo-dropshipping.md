@@ -4,12 +4,12 @@
 
 ![Hackolade image](Modulo-dropshipping/image1.png?raw=true)
 
-MongoDB Physical Model
+Módulo Dropshipping y productos - MongoDB Physical Model
 ----------------------
 
 #### Schema for:
 
-Model name: Modulo Dropshipping y productos
+Model name: Módulo Dropshipping y productos
 
 Author: Rocketfy Development Team
 

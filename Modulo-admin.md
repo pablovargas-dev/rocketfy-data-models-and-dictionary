@@ -4,12 +4,12 @@
 
 ![Hackolade image](Modulo-admin/image1.png?raw=true)
 
-MongoDB Physical Model
+Módulo Admin - MongoDB Physical Model
 ----------------------
 
 #### Schema for:
 
-Model name: Modulo Admin
+Model name: Módulo Admin
 
 Author: Rocketfy Development Team
 

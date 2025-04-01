@@ -4,12 +4,12 @@
 
 ![Hackolade image](Modulo-billetera/image1.png?raw=true)
 
-MongoDB Physical Model
+Módulo de billetera - MongoDB Physical Model
 ----------------------
 
 #### Schema for:
 
-Model name: Modulo Billetera
+Model name: Módulo Billetera
 
 Author: Rocketfy Development Team
 
