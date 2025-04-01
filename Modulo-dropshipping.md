@@ -70,15 +70,15 @@ Version: 1.0
 
 ### <a id="6f94401a-8e31-4b31-9268-15061668a1b5"></a>
 
-### 2.1 Database **rocketfy\_dropshipping**
+### 2.1 Database **rocketfy**
 
-#### 2.1.1 **rocketfy\_dropshipping** Properties
+#### 2.1.1 **rocketfy** Properties
 
 <table class="collection-properties-table"><thead><tr><td>Property</td><td>Value</td></tr></thead><tbody><tr><td>Database name</td><td>rocketfy</td></tr><tr><td>Activated</td><td>true</td></tr></tbody></table>
 
 ### <a id="6f94401a-8e31-4b31-9268-15061668a1b5-children"></a>
 
-#### 2.1.2 **rocketfy\_dropshipping** Collections
+#### 2.1.2 **rocketfy** Collections
 
 ### <a id="7dbbb739-9112-4fed-8747-72e93d10c0d8"></a>
 

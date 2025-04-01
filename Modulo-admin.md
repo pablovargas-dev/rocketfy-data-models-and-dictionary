@@ -71,15 +71,15 @@ Version: 1.0
 
 ### <a id="ac7a68bf-ef02-4449-964e-455eda30c57b"></a>
 
-### 2.1 Database **rocketfy\_admin**
+### 2.1 Database **rocketfy**
 
-#### 2.1.1 **rocketfy\_admin** Properties
+#### 2.1.1 **rocketfy** Properties
 
 <table class="collection-properties-table"><thead><tr><td>Property</td><td>Value</td></tr></thead><tbody><tr><td>Database name</td><td>rocketfy</td></tr><tr><td>Activated</td><td>true</td></tr></tbody></table>
 
 ### <a id="ac7a68bf-ef02-4449-964e-455eda30c57b-children"></a>
 
-#### 2.1.2 **rocketfy\_admin** Collections
+#### 2.1.2 **rocketfy** Collections
 
 ### <a id="635abd72-5aab-496e-a47e-31cf5060165e"></a>
 

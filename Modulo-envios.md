@@ -81,15 +81,15 @@ Version: 1.0
 
 ### <a id="471a8aca-ee28-4d15-bf73-7abd81d6e4d3"></a>
 
-### 2.1 Database **rocketfy\_shippings**
+### 2.1 Database **rocketfy**
 
-#### 2.1.1 **rocketfy\_shippings** Properties
+#### 2.1.1 **rocketfy** Properties
 
 <table class="collection-properties-table"><thead><tr><td>Property</td><td>Value</td></tr></thead><tbody><tr><td>Database name</td><td>rocketfy</td></tr><tr><td>Activated</td><td>true</td></tr></tbody></table>
 
 ### <a id="471a8aca-ee28-4d15-bf73-7abd81d6e4d3-children"></a>
 
-#### 2.1.2 **rocketfy\_shippings** Collections
+#### 2.1.2 **rocketfy** Collections
 
 ### <a id="413bf4a1-81f4-4eac-a782-e5f4707c18c7"></a>
 

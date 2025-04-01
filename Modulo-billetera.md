@@ -75,15 +75,15 @@ Version: 1.0
 
 ### <a id="3d741c17-43c7-4064-81b6-08efb9a5526a"></a>
 
-### 2.1 Database **rocketfy\_wallet**
+### 2.1 Database **rocketfy**
 
-#### 2.1.1 **rocketfy\_wallet** Properties
+#### 2.1.1 **rocketfy** Properties
 
 <table class="collection-properties-table"><thead><tr><td>Property</td><td>Value</td></tr></thead><tbody><tr><td>Database name</td><td>rocketfy</td></tr><tr><td>Activated</td><td>true</td></tr></tbody></table>
 
 ### <a id="3d741c17-43c7-4064-81b6-08efb9a5526a-children"></a>
 
-#### 2.1.2 **rocketfy\_wallet** Collections
+#### 2.1.2 **rocketfy** Collections
 
 ### <a id="94faf316-1b2e-4654-b85c-c7e1f03a3332"></a>
 
